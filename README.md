@@ -1,4 +1,4 @@
-# En el presente repositorio presento los talleres 4 y 5 de Java Avanzado, los cuales consistian primero; en los tipos de conexiones que podemos utilizar para conectar un proyecto a una base de datos, mas adelante mostrare los pantallazos de las conexiones totalmente funcionales de la "peor" a la "mejor", ademas tambien en el taller 5 logramos encriptar una contraseña en la base de datos y posteriormente desencriptarla, que también tiene sus respectivos pantallazos mas adelante.
+# En el presente repositorio presento los talleres 4 y 5 de Java Avanzado, el primero consiste en los tipos de conexiones que podemos utilizar para conectar un proyecto a una base de datos, mas adelante mostrare los pantallazos de las conexiones totalmente funcionales de la "peor" a la "mejor", ademas tambien en el taller 5 logramos encriptar una contraseña en la base de datos y posteriormente desencriptarla, que también tiene sus respectivos pantallazos mas adelante.
 
 # Taller 4 Conexiones base de datos:
 
